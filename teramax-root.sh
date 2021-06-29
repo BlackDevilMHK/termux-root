@@ -1,6 +1,6 @@
 #! /data/data/com.termux/files/usr/bin/bash
 clear
-echo " Black Devil "|figtel|lolcat
+echo " Black Devil "|figlet|lolcat
 echo " MHK "|figlet|lolcat
 echo
 echo                                                        
