@@ -1,17 +1,8 @@
 #! /data/data/com.termux/files/usr/bin/bash
 clear
-echo "  ____  _            _      ____             _ _
-echo " | __ )| | __ _  ___| | __ |  _ \  _____   _(_) |
-echo " |  _ \| |/ _` |/ __| |/ / | | | |/ _ \ \ / / | |
-echo " | |_) | | (_| | (__|   <  | |_| |  __/\ V /| | |
-echo " |____/|_|\__,_|\___|_|\_\ |____/ \___| \_/ |_|_|   "
+echo " Black Devil "|figtel|lolcat
+echo " MHK "|figlet|lolcat
 echo
-echo
-echo "  __  __ _   _ _  __
-echo " |  \/  | | | | |/ /
-echo " | |\/| | |_| | ' /
-echo " | |  | |  _  | . \
-echo " |_|  |_|_| |_|_|\_\     "
 echo                                                        
   read -p "Use this tool for educational purpose only press enter to continue " Enter
 echo
